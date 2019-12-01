@@ -1,9 +1,15 @@
 Yakuake session management
 --------------------------
 
+Fork of eternicode_'s yakuake-sessions.
+
+.. _eternicode: https://bitbucket.org/eternicode/yakuake-sessions
+
 Requires: yakuake, qdbus (libqt4-dbus), pwdx (procps), ps (procps)
 
-Tested on: Ubuntu Maverick (10.10) with Python 2.6 and Yakuake 2.9.7
+Tested on:
+- Ubuntu Maverick (10.10) with Python 2.6 and Yakuake 2.9.7
+- openSUSE Leap 15.1 with Python 3.6-3.8 and Yakuake 3.0.5
 
 Does not support old versions of yakuake that use DCOP instead of DBUS.
 
